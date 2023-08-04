@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **java**
+- 🔭 I’m currently working on **Web**
 
-- 🌱 I’m currently learning **Java and Springboot**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **yrlkyaonur@gmail.com**
 
